@@ -1,4 +1,5 @@
-# Leetcode-Practice
+# Leetcode Practice 
+Something to do over the summer ☀️
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 
 <!---LeetCode Topics Start-->
