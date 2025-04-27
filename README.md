@@ -8,10 +8,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gnasheris/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gnasheris/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gnasheris/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gnasheris/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
