@@ -9,6 +9,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gnasheris/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/gnasheris/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/gnasheris/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/gnasheris/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -24,4 +25,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gnasheris/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gnasheris/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gnasheris/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
