@@ -1,5 +1,5 @@
 # Leetcode Practice 
-Something to do over the summer ☀️ 
+Something to do over the summer ☀️ & now sem 1
 
 Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 
