@@ -35,4 +35,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gnasheris/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gnasheris/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gnasheris/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
