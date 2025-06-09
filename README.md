@@ -39,6 +39,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gnasheris/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/gnasheris/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -51,4 +52,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gnasheris/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gnasheris/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
