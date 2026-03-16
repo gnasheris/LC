@@ -47,13 +47,19 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gnasheris/LC/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/gnasheris/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gnasheris/LC/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/gnasheris/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gnasheris/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gnasheris/LC/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
